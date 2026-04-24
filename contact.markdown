@@ -6,13 +6,6 @@ permalink: /contact/
 
 # Get In Touch
 
-Whether you're looking for a project manager to keep your teams 
-happy and productive, someone to build or scale a brand's social 
-presence, or a writer who can bring your content strategy to life 
-— Tasha would love to hear from you.
-
-Fill out the form below and she'll get back to you within 24–48 hours.
-
 ---
 
 <form action="https://formspree.io/f/mdayybyz" method="POST">
