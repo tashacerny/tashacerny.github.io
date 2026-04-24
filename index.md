@@ -2,7 +2,6 @@
 layout: page
 ---
 
-# Hi, I'm Tasha.
 
 I'm a project manager, content creator, and storyteller who brings 
 collaboration, organization, and creativity to every endeavor.
