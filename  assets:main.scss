@@ -1,0 +1,79 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ── FONTS ── */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500&display=swap');
+
+/* ── BASE ── */
+body {
+  font-family: 'Inter', sans-serif;
+  color: #1a1a1a;
+  background-color: #ffffff;
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+  color: #1a1a1a;
+}
+
+h1 { font-size: 2.8em; line-height: 1.2; }
+
+.site-header {
+  background-color: #1a1a1a;
+  border-top: none;
+  border-bottom: none;
+  padding: 16px 0;
+}
+
+.site-title, .site-title:visited {
+  color: #ffffff !important;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.4em;
+}
+
+.site-title:hover { color: #e8c97e !important; text-decoration: none; }
+
+.site-nav .page-link {
+  color: #ffffff;
+  font-size: 0.95em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-left: 24px;
+}
+
+.site-nav .page-link:hover { color: #e8c97e; text-decoration: none; }
+
+h2 {
+  border-bottom: 3px solid #e8c97e;
+  padding-bottom: 8px;
+  margin-top: 48px;
+}
+
+h3 {
+  color: #b5862a;
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+a { color: #b5862a; font-weight: 500; }
+a:hover { color: #1a1a1a; }
+
+.site-footer {
+  background-color: #1a1a1a;
+  color: #aaaaaa;
+  border-top: none;
+}
+
+.site-footer a { color: #e8c97e; }
+.footer-heading { color: #ffffff; }
+
+blockquote {
+  border-left: 4px solid #e8c97e;
+  color: #555;
+  font-style: italic;
+}
+
+img { border-radius: 8px; max-width: 100%; }

@@ -27,6 +27,10 @@ github_username:  tashacerny
 
 # Build settings
 theme: minima
+# Build settings
+theme: minima
+minima:
+  skin: classic
 plugins:
   - jekyll-feed
 
