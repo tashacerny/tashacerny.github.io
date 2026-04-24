@@ -3,6 +3,8 @@ layout: home
 ---
 
 
+![Tasha Cerny](assets/images/headshot.jpg)
+
 I'm a project manager, content creator, and storyteller who brings 
 collaboration, organization, and creativity to every endeavor.
 
