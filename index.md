@@ -1,12 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
----
 layout: home
 ---
 
-# Hi, I'm Tasha Cerny
+# Hi, I'm Tasha.
 
 I'm a project manager, content creator, and storyteller who brings 
 collaboration, organization, and creativity to every endeavor.
@@ -24,4 +20,4 @@ A writer at my core, I understand how to combine story and brand to build
 stronger digital relationships — creatively and strategically, and never 
 boring.
 
-[View My Work](/portfolio) | [About Me](/about) | [Get In Touch](/contact)
+[View My Work](/work) | [About Me](/about) | [Get In Touch](/contact)
