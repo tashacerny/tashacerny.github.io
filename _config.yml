@@ -50,6 +50,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 header_pages:
-  - work.markdown
-  - about.markdown
-  - contact.markdown
+  - work.md
+  - about.md
+  - contact.md
