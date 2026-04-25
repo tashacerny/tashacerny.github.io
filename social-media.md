@@ -26,6 +26,11 @@ permalink: /work/social-media/
     <p class="writing-company">Creative Teaching Press</p>
   </div>
 
+  <div class="writing-card" onclick="openWritingModal('rhv2')">
+    <h3>Relentless Health Value</h3>
+    <p class="writing-company">Relentless Health Value</p>
+  </div>
+
 </div>
 
 <!-- Modals -->
@@ -84,6 +89,15 @@ permalink: /work/social-media/
       <li>Maintained brand consistency and quality across all published content</li>
     </ul>
     <p><em>Campaign content examples and video samples coming soon.</em></p>
+  </div>
+</div>
+
+<div id="modal-rhv2" class="writing-modal">
+  <div class="writing-modal-inner">
+    <button class="modal-close" onclick="closeWritingModal('rhv2')">✕</button>
+    <h2>Relentless Health Value</h2>
+    <p class="writing-company">Relentless Health Value</p>
+    <p><em>Work samples coming soon.</em></p>
   </div>
 </div>
 
