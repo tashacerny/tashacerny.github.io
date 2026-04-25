@@ -23,7 +23,7 @@ permalink: /work/writing/
 
   <div class="writing-card" onclick="openWritingModal('blog')">
     <h3>Blog &amp; Newsletter Writing</h3>
-    <p class="writing-company">Creative Teaching Press</p>
+    <p class="writing-company">Creative Teaching Press · Relentless Health Value</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('press')">
@@ -77,9 +77,12 @@ permalink: /work/writing/
   <div class="writing-modal-inner">
     <button class="modal-close" onclick="closeWritingModal('blog')">✕</button>
     <h2>Blog &amp; Newsletter Writing</h2>
-    <p class="writing-company">Creative Teaching Press</p>
-    <p><em>Writing samples coming soon.</em></p>
-    <p>[ Placeholder for writing sample / PDF / link ]</p>
+    <p class="writing-company">Creative Teaching Press · Relentless Health Value</p>
+    <div class="pdf-sample">
+      <p class="pdf-label"><strong>Relentless Health Value Newsletter</strong></p>
+      <iframe src="/assets/writing/relentless-health-value-newsletter.pdf" width="100%" height="500px" style="border:1px solid #ddd; border-radius:4px;"></iframe>
+      <p style="margin-top:0.5rem;"><a href="/assets/writing/relentless-health-value-newsletter.pdf" target="_blank">Open PDF in new tab ↗</a></p>
+    </div>
   </div>
 </div>
 
