@@ -55,8 +55,11 @@ permalink: /work/writing/
     <button class="modal-close" onclick="closeWritingModal('health')">✕</button>
     <h2>Editorial Writing</h2>
     <p class="writing-company">Get Your Fit Together · Shondaland.com · Career College Central Magazine</p>
-    <p><em>Published articles coming soon.</em></p>
-    <p>[ Placeholder for article links / screenshots ]</p>
+    <div class="pdf-sample">
+      <p class="pdf-label"><strong>Britta Lundin's Debut Novel, 'Ship It,' Is 'Really Gay'</strong></p>
+      <iframe src="/assets/writing/ship-it-review.pdf" width="100%" height="500px" style="border:1px solid #ddd; border-radius:4px;"></iframe>
+      <p style="margin-top:0.5rem;"><a href="/assets/writing/ship-it-review.pdf" target="_blank">Open PDF in new tab ↗</a></p>
+    </div>
   </div>
 </div>
 
