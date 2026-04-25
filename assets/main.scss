@@ -224,6 +224,14 @@ img { border-radius: 8px; max-width: 100%; }
   &:hover { color: #b5862a; }
 }
 
+.embed-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 24px;
+  margin: 2rem 0 3rem;
+  align-items: start;
+}
+
 .headshot {
   display: block;
   margin: 0 auto 2rem;

@@ -118,6 +118,24 @@ permalink: /work/social-media/
 
 ---
 
+## Posts
+
+<div class="embed-grid">
+  <!-- Paste post embed codes here -->
+  <!-- Example: <blockquote class="instagram-media" ...></blockquote><script async src="//www.instagram.com/embed.js"></script> -->
+</div>
+
+---
+
+## Videos
+
+<div class="embed-grid">
+  <!-- Paste video embed codes here -->
+  <!-- Example: <iframe src="https://www.tiktok.com/embed/..." ...></iframe> -->
+</div>
+
+---
+
 ## Social Media Specialties
 Organic social strategy, audience growth, content calendar management,
 social SEO, short-form video, multi-platform campaigns, community management,
