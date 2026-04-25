@@ -4,145 +4,134 @@ title: Copy & Article Writing
 permalink: /work/writing/
 ---
 
-# Copy & Article Writing
+<div class="writing-gallery">
 
-A writer at her core, Tasha Cerny brings editorial precision, brand 
-awareness, and a natural storytelling instinct to every piece. She 
-has written across a wide range of niches, formats, and audiences — 
-from SEO-driven articles to TV development to opinion columns — 
-and understands how to combine story and brand to build stronger 
-connections with any audience.
+  <div class="writing-card" onclick="openWritingModal('seo')">
+    <h3>SEO Copywriting</h3>
+    <p class="writing-company">Spectrum Content</p>
+  </div>
 
----
+  <div class="writing-card" onclick="openWritingModal('health')">
+    <h3>Editorial Writing</h3>
+    <p class="writing-company">Get Your Fit Together · Shondaland.com · Career College Central Magazine</p>
+  </div>
 
-## Case Study: High-Volume SEO Content Production
-**Spectrum Content**
+  <div class="writing-card" onclick="openWritingModal('education')">
+    <h3>Persuasive Brand Copy</h3>
+    <p class="writing-company">John Baker for Kansas</p>
+  </div>
 
-### The Challenge
-A content agency needed a reliable writer who could produce 
-high-quality, SEO-driven articles at volume across regulated consumer 
-niches including health, finance, and lifestyle — while maintaining 
-factual accuracy, brand voice consistency, and compliance standards.
+  <div class="writing-card" onclick="openWritingModal('blog')">
+    <h3>Blog &amp; Newsletter Writing</h3>
+    <p class="writing-company">Creative Teaching Press</p>
+  </div>
 
-### The Approach
-Tasha produced over 400 articles, executing content briefs with 
-strategic keyword placement and natural language that read well for 
-both search engines and real humans. She navigated multi-stage 
-editorial review processes, adhered to strict style guides, and 
-consistently delivered mid-length content tailored to each brand's 
-voice and compliance requirements.
+  <div class="writing-card" onclick="openWritingModal('press')">
+    <h3>Press Release Copywriting</h3>
+    <p class="writing-company">Andrews McMeel Publishing</p>
+  </div>
 
-### The Results
-- Produced **400+ SEO-driven articles** across consumer-facing niches
-- Maintained factual accuracy across regulated health and finance topics
-- Consistently met editorial and compliance standards at high volume
+  <div class="writing-card" onclick="openWritingModal('review')">
+    <h3>Review Writing</h3>
+    <p class="writing-company">The Tracking-Board · The Industry</p>
+  </div>
 
-### Work Samples
-*Writing samples coming soon.*
+</div>
 
-[ Placeholder for writing sample / PDF / link ]
+<!-- Modals -->
 
----
+<div id="modal-seo" class="writing-modal">
+  <div class="writing-modal-inner">
+    <button class="modal-close" onclick="closeWritingModal('seo')">✕</button>
+    <h2>SEO Copywriting</h2>
+    <p class="writing-company">Spectrum Content</p>
+    <p><em>Writing samples coming soon.</em></p>
+    <p>[ Placeholder for writing sample / PDF / link ]</p>
+  </div>
+</div>
 
-## Case Study: Health & Wellness Editorial Writing
-**Get Your Fit Together**
+<div id="modal-health" class="writing-modal">
+  <div class="writing-modal-inner">
+    <button class="modal-close" onclick="closeWritingModal('health')">✕</button>
+    <h2>Editorial Writing</h2>
+    <p class="writing-company">Get Your Fit Together · Shondaland.com · Career College Central Magazine</p>
+    <p><em>Published articles coming soon.</em></p>
+    <p>[ Placeholder for article links / screenshots ]</p>
+  </div>
+</div>
 
-### The Challenge
-A health and wellness publication needed contributing writers who 
-could cover fitness, nutrition, and general wellbeing topics with 
-editorial precision and careful sourcing in a regulated content space.
+<div id="modal-education" class="writing-modal">
+  <div class="writing-modal-inner">
+    <button class="modal-close" onclick="closeWritingModal('education')">✕</button>
+    <h2>Persuasive Brand Copy</h2>
+    <p class="writing-company">John Baker for Kansas</p>
+    <p><em>Writing samples coming soon.</em></p>
+    <p>[ Placeholder for writing sample / PDF / link ]</p>
+  </div>
+</div>
 
-### The Approach
-Tasha wrote health and wellness articles that balanced accessibility 
-and accuracy — translating complex health topics into engaging, 
-well-sourced reads for a general audience while meeting the editorial 
-standards of a regulated health publication.
+<div id="modal-blog" class="writing-modal">
+  <div class="writing-modal-inner">
+    <button class="modal-close" onclick="closeWritingModal('blog')">✕</button>
+    <h2>Blog &amp; Newsletter Writing</h2>
+    <p class="writing-company">Creative Teaching Press</p>
+    <p><em>Writing samples coming soon.</em></p>
+    <p>[ Placeholder for writing sample / PDF / link ]</p>
+  </div>
+</div>
 
-### The Results
-- Delivered accurate, engaging health content in a regulated editorial space
-- Built a consistent contributing relationship with the publication
+<div id="modal-press" class="writing-modal">
+  <div class="writing-modal-inner">
+    <button class="modal-close" onclick="closeWritingModal('press')">✕</button>
+    <h2>Press Release Copywriting</h2>
+    <p class="writing-company">Andrews McMeel Publishing</p>
+    <p><em>Writing samples coming soon.</em></p>
+    <p>[ Placeholder for writing sample / PDF / link ]</p>
+  </div>
+</div>
 
-### Work Samples
-*Published articles coming soon.*
-
-[ Placeholder for article links / screenshots ]
-
----
-
-## Case Study: Education Policy Writing
-**Career College Central Magazine**
-
-### The Challenge
-A national education publication needed writers who could cover 
-complex policy and industry trends in the technical and vocational 
-college sector in a way that was accessible and engaging for a 
-broad national audience.
-
-### The Approach
-Tasha translated complex institutional and policy topics into 
-compelling reads, making dense subject matter approachable without 
-sacrificing depth or accuracy. She covered industry trends, policy 
-shifts, and institutional developments across the technical and 
-vocational education space.
-
-### The Results
-- Published pieces covering education policy for a national audience
-- Consistently translated complex topics into accessible, engaging content
-
-### Work Samples
-*Published articles coming soon.*
-
-[ Placeholder for article links / screenshots ]
-
----
-
-## Case Study: TV Development Writing & Research
-**TV Production, Los Angeles | 2015–2024**
-
-### The Challenge
-Writers' rooms on TV productions require more than creative talent — 
-they need people who can research deeply, pitch ideas clearly, and 
-develop creative content solutions under pressure across a wide range 
-of story challenges.
-
-### The Approach
-Over nearly a decade across five TV series, Tasha conducted legal 
-research to support showrunners through story development, pitched 
-creative content solutions that addressed narrative challenges, and 
-contributed to the development of projects from page to screen. 
-She collaborated closely with directors, writers, producers, and 
-actors to advance and fund projects.
-
-### The Results
-- Contributed to creative development across five TV series
-- Conducted research and writing support for an HBO production
-- Pitched and developed story solutions in fast-moving writers' rooms
-
-### Work Samples
-*Development samples and references available upon request.*
-
-[ Placeholder for image/screenshot ]
-
----
+<div id="modal-review" class="writing-modal">
+  <div class="writing-modal-inner">
+    <button class="modal-close" onclick="closeWritingModal('review')">✕</button>
+    <h2>Review Writing</h2>
+    <p class="writing-company">The Tracking-Board · The Industry</p>
+    <p><em>Writing samples coming soon.</em></p>
+    <p>[ Placeholder for writing sample / PDF / link ]</p>
+  </div>
+</div>
 
 ## Additional Bylines
 
-- **Shondaland.com** — Guest Columnist
-- **The Tracking Board** — TV Review Writer
 - **KIOSK Magazine** — Contributing Writer
 - **University Daily Kansan** — Opinion Columnist
-
-### Additional Samples
-[ Placeholder for additional writing samples, PDFs, or screenshots ]
 
 ---
 
 ## Writing Specialties
-SEO writing, brand copywriting, health and wellness content, 
-education and policy writing, entertainment writing, opinion 
-and column writing, editorial strategy, short-form and long-form 
+SEO writing, brand copywriting, health and wellness content,
+education and policy writing, entertainment writing, opinion
+and column writing, editorial strategy, short-form and long-form
 content, brand voice development.
 
 ---
 
 [← Back to Work](/work) | [Get In Touch](/contact)
+
+<script>
+function openWritingModal(id) {
+  document.getElementById('modal-' + id).classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+function closeWritingModal(id) {
+  document.getElementById('modal-' + id).classList.remove('active');
+  document.body.style.overflow = '';
+}
+document.querySelectorAll('.writing-modal').forEach(function(modal) {
+  modal.addEventListener('click', function(e) {
+    if (e.target === modal) {
+      modal.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+  });
+});
+</script>

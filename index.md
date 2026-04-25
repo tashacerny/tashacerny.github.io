@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: page
 ---
 
 
-![Tasha Cerny](assets/images/headshot.jpg)
+<img src="/assets/images/headshot.jpg" alt="Tasha Cerny" class="headshot">
 
 I'm a project manager, content creator, and storyteller who brings 
 collaboration, organization, and creativity to every endeavor.
@@ -21,4 +21,8 @@ A writer at my core, I understand how to combine story and brand to build
 stronger digital relationships — creatively and strategically, and never 
 boring.
 
-[View My Work](/work) | [About Me](/about) | [Get In Touch](/contact)
+<div class="cta-buttons">
+  <a href="/work" class="btn btn-primary">View My Work</a>
+  <a href="/about" class="btn btn-secondary">About Me</a>
+  <a href="/contact" class="btn btn-primary">Get In Touch</a>
+</div>

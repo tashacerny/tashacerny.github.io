@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-# About Tasha Cerny
-
 Tasha Cerny is a project manager, content creator, and storyteller who 
 brings collaboration, organization, and creativity to every endeavor. 
 She keeps projects moving, communication flowing, and details in order — 

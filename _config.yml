@@ -19,14 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tasha Cerny
-email: tasha@tashacerny.com
+email: ""
 description: Project manager and content creator helping brands grow through strategic planning, social media management, and community-driven storytelling.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tashacerny.github.io"
+url: "https://tashacerny.com"
 github_username:  tashacerny
 
-# Build settings
-theme: minima
 # Build settings
 theme: minima
 minima:
