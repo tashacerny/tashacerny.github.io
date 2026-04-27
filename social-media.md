@@ -8,27 +8,22 @@ permalink: /work/social-media/
 
   <div class="writing-card" onclick="openWritingModal('rhv')">
     <h3>Shadow Sheltie</h3>
-    <p class="writing-company">Relentless Health Value</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('jbk')">
     <h3>Baker4Kansas</h3>
-    <p class="writing-company">John Baker for Kansas Senate</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('vb')">
     <h3>Volunteer Blue</h3>
-    <p class="writing-company">Volunteer Blue</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('ctp')">
     <h3>Creative Teaching Press</h3>
-    <p class="writing-company">Creative Teaching Press</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('rhv2')">
     <h3>Relentless Health Value</h3>
-    <p class="writing-company">Relentless Health Value</p>
   </div>
 
 </div>
