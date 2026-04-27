@@ -7,27 +7,22 @@ permalink: /work/social-media/
 <div class="writing-gallery">
 
   <div class="writing-card" onclick="openWritingModal('rhv')">
-    <h3>Shadow Sheltie</h3>
     <p class="writing-company">Relentless Health Value</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('jbk')">
-    <h3>Baker4Kansas</h3>
     <p class="writing-company">John Baker for Kansas Senate</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('vb')">
-    <h3>Volunteer Blue</h3>
     <p class="writing-company">Volunteer Blue</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('ctp')">
-    <h3>Creative Teaching Press</h3>
     <p class="writing-company">Creative Teaching Press</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('rhv2')">
-    <h3>Relentless Health Value</h3>
     <p class="writing-company">Relentless Health Value</p>
   </div>
 
@@ -38,20 +33,9 @@ permalink: /work/social-media/
 <div id="modal-rhv" class="writing-modal">
   <div class="writing-modal-inner">
     <button class="modal-close" onclick="closeWritingModal('rhv')">✕</button>
-    <h2>Audience Growth for a Niche Healthcare Podcast</h2>
-    <h3>The Challenge</h3>
-    <p>Relentless Health Value is a top-ranked healthcare policy podcast with a highly specific audience — healthcare professionals, policy advocates, and industry insiders. Growing an engaged following in such a niche space required more than just posting consistently. It required a deep understanding of the audience and a content strategy built around their specific needs and interests.</p>
-    <h3>The Approach</h3>
-    <p>Tasha built and led the organic social media strategy from the ground up, developing a content voice that resonated with a highly informed audience. She applied audience analytics to inform content decisions, optimized posts for social SEO and metadata discoverability, and crafted captions that drove meaningful engagement rather than passive scrolling.</p>
-    <h3>The Results</h3>
-    <ul>
-      <li>Grew the audience from <strong>0 to 5,650+ highly engaged followers</strong></li>
-      <li>Built a loyal niche community in a specialized industry space</li>
-      <li>Consistently increased organic reach through social SEO strategy</li>
-    </ul>
-    <p><em>Analytics screenshots, content examples, and engagement data coming soon.</em></p>
   </div>
 </div>
+
 
 <div id="modal-ctp" class="writing-modal">
   <div class="writing-modal-inner">
@@ -84,7 +68,6 @@ permalink: /work/social-media/
 <div id="modal-rhv2" class="writing-modal">
   <div class="writing-modal-inner">
     <button class="modal-close" onclick="closeWritingModal('rhv2')">✕</button>
-    <h2>Relentless Health Value</h2>
     <p class="writing-company">Relentless Health Value</p>
     <p><em>Work samples coming soon.</em></p>
   </div>
