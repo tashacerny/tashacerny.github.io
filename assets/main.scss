@@ -193,7 +193,7 @@ img { border-radius: 8px; max-width: 100%; }
   background: #fff;
   border-radius: 8px;
   padding: 40px 48px;
-  max-width: 620px;
+  max-width: 680px;
   width: 90%;
   max-height: 80vh;
   overflow-y: auto;
@@ -208,6 +208,19 @@ img { border-radius: 8px; max-width: 100%; }
     font-size: 0.9em;
     margin-top: -8px;
     margin-bottom: 24px;
+  }
+}
+
+.linkedin-embeds {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin: 1.5rem 0;
+
+  iframe {
+    width: 100% !important;
+    max-width: 504px;
+    display: block;
   }
 }
 
