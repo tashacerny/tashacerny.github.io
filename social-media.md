@@ -89,7 +89,9 @@ permalink: /work/social-media/
     <button class="modal-close" onclick="closeWritingModal('rhv2')">✕</button>
     <h2>Relentless Health Value</h2>
     <p class="writing-company">Relentless Health Value</p>
-    <p><em>Work samples coming soon.</em></p>
+<div class="embed-grid embed-grid-2col">
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7452869403001532416" height="1191" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</div>
   </div>
 </div>
 
