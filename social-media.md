@@ -7,22 +7,27 @@ permalink: /work/social-media/
 <div class="writing-gallery">
 
   <div class="writing-card" onclick="openWritingModal('rhv')">
+    <h3>Shadow Sheltie</h3>
     <p class="writing-company">Relentless Health Value</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('jbk')">
+    <h3>Baker4Kansas</h3>
     <p class="writing-company">John Baker for Kansas Senate</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('vb')">
+    <h3>Volunteer Blue</h3>
     <p class="writing-company">Volunteer Blue</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('ctp')">
+    <h3>Creative Teaching Press</h3>
     <p class="writing-company">Creative Teaching Press</p>
   </div>
 
   <div class="writing-card" onclick="openWritingModal('rhv2')">
+    <h3>Relentless Health Value</h3>
     <p class="writing-company">Relentless Health Value</p>
   </div>
 
@@ -33,6 +38,7 @@ permalink: /work/social-media/
 <div id="modal-rhv" class="writing-modal">
   <div class="writing-modal-inner">
     <button class="modal-close" onclick="closeWritingModal('rhv')">✕</button>
+    <h2>Shadow Sheltie</h2>
   </div>
 </div>
 
@@ -68,6 +74,7 @@ permalink: /work/social-media/
 <div id="modal-rhv2" class="writing-modal">
   <div class="writing-modal-inner">
     <button class="modal-close" onclick="closeWritingModal('rhv2')">✕</button>
+    <h2>Relentless Health Value</h2>
     <p class="writing-company">Relentless Health Value</p>
     <p><em>Work samples coming soon.</em></p>
   </div>
