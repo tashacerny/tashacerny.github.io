@@ -247,6 +247,14 @@ img { border-radius: 8px; max-width: 100%; }
   }
 }
 
+.embed-grid-2col {
+  grid-template-columns: repeat(2, 1fr);
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
 .headshot {
   display: block;
   margin: 0 auto 2rem;
