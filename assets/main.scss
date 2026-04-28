@@ -333,6 +333,21 @@ img { border-radius: 8px; max-width: 100%; }
   }
 }
 
+.video-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin: 2rem 0 3rem;
+
+  iframe {
+    width: 100%;
+    max-width: 720px;
+    height: 405px;
+    border-radius: 8px;
+    display: block;
+  }
+}
+
 .headshot {
   display: block;
   margin: 0 auto 2rem;

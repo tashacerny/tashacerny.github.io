@@ -136,11 +136,10 @@ permalink: /work/social-media/
 
 ## Other Videos
 
-<div class="embed-grid embed-grid-2col">
+<div class="video-stack">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mBXQPpnTCj4?si=o7MNz1IRH7IO4s-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3WD0GBWVkgQ?si=XzvM0Gnhok7uJsoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/x_WHS3uu_0s?si=10JlkLxwFu4dq7hU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <script async src="//www.instagram.com/embed.js"></script>
 </div>
 
 ---
