@@ -111,6 +111,10 @@ permalink: /work/social-media/
 <div class="screenshot-embed">
   <img src="/assets/images/rhv-linkedin-1.png" alt="Relentless Health Value LinkedIn post" style="width:100%; border-radius:8px; display:block;">
 </div>
+
+<div class="screenshot-embed">
+  <img src="/assets/images/rhv-linkedin-2.png" alt="Relentless Health Value LinkedIn post" style="width:100%; border-radius:8px; display:block;">
+</div>
   </div>
 </div>
 
