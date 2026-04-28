@@ -76,6 +76,13 @@ permalink: /work/social-media/
   <iframe src="/assets/files/core-decor-newsletter.pdf" width="100%" height="620" style="border:none; border-radius:8px;"></iframe>
   <a href="/assets/files/core-decor-newsletter.pdf" target="_blank" class="pdf-download">View / Download Newsletter ↗</a>
 </div>
+
+<div class="screenshot-embed">
+  <a href="https://pin.it/2azr5eKRF" target="_blank">
+    <img src="/assets/images/ctp-pinterest.png" alt="Creative Teaching Press on Pinterest" style="width:100%; border-radius:8px; display:block;">
+  </a>
+  <a href="https://pin.it/2azr5eKRF" target="_blank" class="pdf-download">View on Pinterest ↗</a>
+</div>
   </div>
 </div>
 
