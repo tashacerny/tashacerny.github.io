@@ -66,6 +66,11 @@ permalink: /work/social-media/
   <iframe src="/assets/files/september-newsletter.pdf" width="100%" height="620" style="border:none; border-radius:8px;"></iframe>
   <a href="/assets/files/september-newsletter.pdf" target="_blank" class="pdf-download">View / Download Newsletter ↗</a>
 </div>
+
+<div class="pdf-embed">
+  <iframe src="/assets/files/summer-slide-newsletter.pdf" width="100%" height="620" style="border:none; border-radius:8px;"></iframe>
+  <a href="/assets/files/summer-slide-newsletter.pdf" target="_blank" class="pdf-download">View / Download Newsletter ↗</a>
+</div>
   </div>
 </div>
 
