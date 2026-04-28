@@ -107,6 +107,10 @@ permalink: /work/social-media/
     <button class="modal-close" onclick="closeWritingModal('rhv2')">✕</button>
     <h2>Relentless Health Value</h2>
     <p class="writing-company">Relentless Health Value</p>
+
+<div class="screenshot-embed">
+  <img src="/assets/images/rhv-linkedin-1.png" alt="Relentless Health Value LinkedIn post" style="width:100%; border-radius:8px; display:block;">
+</div>
   </div>
 </div>
 
