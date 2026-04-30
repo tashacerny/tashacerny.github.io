@@ -349,11 +349,16 @@ img { border-radius: 8px; max-width: 100%; }
 }
 
 .about-photo {
-  display: block;
-  margin: 2.5rem auto 2rem;
-  max-width: 130px;
-  width: 100%;
+  float: left;
+  width: 280px;
+  margin: 0 2rem 1.5rem 0;
   border-radius: 8px;
+}
+
+.about-content::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .headshot {
