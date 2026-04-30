@@ -36,4 +36,6 @@ productive, someone to build or scale a brand, or a collaborative partner
 for a creative endeavor — Tasha would love to connect. Feel free to ask 
 her about her three-legged dog while you're at it. 🐾
 
+<img src="/assets/images/tasha-and-shadow.jpg" alt="Tasha and her three-legged dog Shadow" class="about-photo">
+
 [Get In Touch](/contact)
