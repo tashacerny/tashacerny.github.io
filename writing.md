@@ -2,6 +2,7 @@
 layout: page
 title: Copy & Article Writing
 permalink: /work/writing/
+published: false
 ---
 
 <div class="writing-gallery">

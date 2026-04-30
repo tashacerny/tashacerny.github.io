@@ -2,6 +2,7 @@
 layout: page
 title: Project Management
 permalink: /work/project-management/
+published: false
 ---
 
 # Project Management
