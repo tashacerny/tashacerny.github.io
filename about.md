@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+<img src="/assets/images/tasha-and-shadow.jpg" alt="Tasha and her three-legged dog Shadow" class="about-photo">
+
 Tasha Cerny is a project manager, content creator, and storyteller who 
 brings collaboration, organization, and creativity to every endeavor. 
 She keeps projects moving, communication flowing, and details in order — 
@@ -35,7 +37,5 @@ If you're looking for a project manager who keeps teams happy and
 productive, someone to build or scale a brand, or a collaborative partner 
 for a creative endeavor — Tasha would love to connect. Feel free to ask 
 her about her three-legged dog while you're at it. 🐾
-
-<img src="/assets/images/tasha-and-shadow.jpg" alt="Tasha and her three-legged dog Shadow" class="about-photo">
 
 [Get In Touch](/contact)
